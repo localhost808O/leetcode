@@ -11,7 +11,7 @@
 | Номер | Название задачи                              | Уровень сложности | Статус    |
 |-------|----------------------------------------------|-------------------|-----------|
 | 419    |  Battleships in a Board                     | Medium             | ✅ Решено   |
-| 2     | Add Two Numbers                             | Medium            | ✅ Решено  |
+| 49    | Group Anagrams                         | Medium            | ✅ Решено  |
 | 3     | Longest Substring Without Repeating Characters | Medium            | ✅ Решено  |
 | 4     | Median of Two Sorted Arrays                 | Hard              | ❌ Не решено |
 | 5     | Longest Palindromic Substring                | Medium            | ✅ Решено  |
