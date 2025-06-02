@@ -11,8 +11,8 @@
 | Номер | Название задачи                              | Уровень сложности | Алгоритмы/Структуры данных    |
 |-------|----------------------------------------------|-------------------|-----------|
 | 419    |  Battleships in a Board                     | Medium             | -  |
-| 49    | Group Anagrams                         | Medium            | Хеш мап, Sort   |
-| 3     | Convert BST to Greater Tree | Medium            | Рекурсия  |
+| 49    | Group Anagrams                         | Medium            | Hash map, Sort   |
+| 3     | Convert BST to Greater Tree | Medium            | recursion  |
 | 4     | Median of Two Sorted Arrays                 | Hard              | ❌ Не решено |
 | 5     | Longest Palindromic Substring                | Medium            | ✅ Решено  |
 | ...   | ...                                          | ...               | ...       |
