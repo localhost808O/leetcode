@@ -13,7 +13,7 @@
 | 419    |  Battleships in a Board                     | Medium             | -  |
 | 49    | Group Anagrams                         | Medium            | Hash map, Sort   |
 | 3     | Convert BST to Greater Tree | Medium            | recursion  |
-| 4     | Median of Two Sorted Arrays                 | Hard              | ❌ Не решено |
+| 2150     | Find All Lonely Numbers in the Array              | Mediun              | HashSet |
 | 5     | Longest Palindromic Substring                | Medium            | ✅ Решено  |
 | ...   | ...                                          | ...               | ...       |
 
