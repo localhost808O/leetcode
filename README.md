@@ -14,7 +14,7 @@
 | 49    | Group Anagrams                         | Medium            | Hash map, Sort   |
 | 3     | Convert BST to Greater Tree | Medium            | recursion  |
 | 2150     | Find All Lonely Numbers in the Array              | Mediun              | HashSet |
-| 5     | Longest Palindromic Substring                | Medium            | ✅ Решено  |
+| 3185     |  Count Pairs That Form a Complete Day II            | Medium            | HashTable  |
 | ...   | ...                                          | ...               | ...       |
 
 ## Как запустить
