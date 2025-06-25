@@ -17,7 +17,7 @@
 | 3185     |  Count Pairs That Form a Complete Day II            | Medium            | HashTable  |
 | 338   | Counting Bits                                          | Easy              | DP, Bit Manipulation       |
 | 509   |  Fibonacci Number                                          | Easy               |   DP     |
-| ...   | ...                                          | ...               | ...       |
+| 392  |          Is Subsequence                             | Easy           | Dp, Two points      |
 | ...   | ...                                          | ...               | ...       |
 | ...   | ...                                          | ...               | ...       |
 
