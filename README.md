@@ -18,7 +18,7 @@
 | 338   | Counting Bits                                          | Easy              | DP, Bit Manipulation       |
 | 509   |  Fibonacci Number                                          | Easy               |   DP     |
 | 392  |          Is Subsequence                             | Easy           | Dp, Two points      |
-| ...   | ...                                          | ...               | ...       |
+| 165   | Compare Version Numbers                                          | Medium               | Two Pointers, String       |
 | ...   | ...                                          | ...               | ...       |
 
 ## Как запустить
