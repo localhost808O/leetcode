@@ -20,6 +20,8 @@
 | 392  |          Is Subsequence                             | Easy           | Dp, Two points      |
 | 165   | Compare Version Numbers                                          | Medium               | Two Pointers, String       |
 | 547   | Number of Provinces                                          | Medium               | DFS Union Find Graph      |
+| 100   | Same Tree                                          | Easy               | DFS Tree      |
+
 
 ## Как запустить
 Для запуска решений на вашем локальном компьютере выполните следующие шаги:
