@@ -22,6 +22,7 @@
 | 547   | Number of Provinces                                          | Medium               | DFS Union Find Graph      |
 | 100   | Same Tree                                          | Easy               | DFS Tree      |
 | 114   | Flatten binary tree to linked list                                         | Medium               | DFS Tree      |
+| 690   | Employee Importance                                         | Medium               | DFS Tree  HashMap  |
 
 
 ## Как запустить
