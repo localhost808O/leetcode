@@ -23,6 +23,8 @@
 | 100   | Same Tree                                          | Easy               | DFS Tree      |
 | 114   | Flatten binary tree to linked list                                         | Medium               | DFS Tree      |
 | 690   | Employee Importance                                         | Medium               | DFS Tree  HashMap  |
+| 116   |  Populating Next Right Pointers in Each Node | Medium               | DFS Tree  HashMap  |
+
 
 
 ## Как запустить
