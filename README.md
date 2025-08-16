@@ -24,7 +24,9 @@
 | 114   | Flatten binary tree to linked list                                         | Medium               | DFS Tree      |
 | 690   | Employee Importance                                         | Medium               | DFS Tree  HashMap  |
 | 116   |  Populating Next Right Pointers in Each Node | Medium               |  Tree    |
-
+| 95   | Unique Binary Search Trees II | Medium (REPEATE)               |  Tree    |
+| 116   |  Populating Next Right Pointers in Each Node | Medium               |  Tree    |
+| 116   |  Populating Next Right Pointers in Each Node | Medium               |  Tree    |
 
 
 ## Как запустить
